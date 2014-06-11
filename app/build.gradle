@@ -25,5 +25,5 @@ android {
 
 dependencies {
 	compile fileTree(dir: 'libs', include: ['*.jar'])
-	instrumentTestCompile 'junit:junit:3.8'
+	androidTestCompile 'junit:junit:3.8'
 }

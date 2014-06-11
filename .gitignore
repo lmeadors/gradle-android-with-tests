@@ -1,0 +1,10 @@
+.gradle
+local.properties
+.idea/workspace.xml
+.DS_Store
+build/
+.idea/
+*.iml
+sample/src/amazon/gen/
+sample/src/main/gen/
+sample/src/google/gen/
